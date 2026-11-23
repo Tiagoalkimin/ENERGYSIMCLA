@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#14284B"
+backgroundColor = "#F1F4F8"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#12203A"
+borderColor = "#D8DEE8"
+linkColor = "#1E3762"
+baseRadius = "10px"
+font = "'Atkinson Hyperlegible':https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap"
+headingFont = "'Bricolage Grotesque':https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&display=swap"
+chartCategoricalColors = ["#14284B", "#D8432A", "#0E9466", "#FBA834", "#5B7BB5", "#8E5BB5"]
+
+[client]
+toolbarMode = "minimal"
